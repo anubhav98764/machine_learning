@@ -1,4 +1,4 @@
-# Practice set question
+# Practice set question of week 2
 #  Train a logistic regression model on Titanic dataset
 
 import pandas as pd
